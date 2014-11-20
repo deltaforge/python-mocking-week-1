@@ -1,0 +1,4 @@
+.vagrant/
+*.swp
+*.pyc
+code/.idea
